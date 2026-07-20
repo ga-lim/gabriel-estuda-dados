@@ -3,4 +3,5 @@ Esse repositório conterá alguns estudos práticos de coleta, manipulação, ex
 
 Pandas:
     Curso (Téo Me Why): https://youtube.com/playlist?list=PLvlkVRRKOYFQHnDhjTmXLEz3HU5WTgOcF&si=iI3RDed5BIWAZmDZ
+    
     Datasets utilizados (Kaggle): https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system
